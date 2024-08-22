@@ -35,6 +35,4 @@ $ yarn run start:prod
 
 ## API Documentaion
 
-```bash
-$ [http://localhost:3000/api](http://localhost:3000/api)
-```
+[http://localhost:3000/api](http://localhost:3000/api)
