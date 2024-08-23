@@ -2,6 +2,8 @@
 
 ## Project setup
 
+### Installation
+
 ```
 cd autobot-count-app
 ```
