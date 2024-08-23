@@ -39,6 +39,8 @@ $ yarn run start:prod
 
 ## Client Setup
 
+### Installation
+
 ```bash
 $ cd autobot-count-app
 ```
