@@ -37,7 +37,7 @@ $ yarn run start:prod
 
 [http://localhost:3000/api](http://localhost:3000/api)
 
-## Server Setup
+## Client Setup
 
 ```bash
 $ cd autobot-count-app
