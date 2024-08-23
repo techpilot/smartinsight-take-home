@@ -10,7 +10,7 @@ cd autobot-count-app
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Running the app
 
 ```
 yarn serve

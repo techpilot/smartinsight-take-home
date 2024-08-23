@@ -10,7 +10,7 @@ hour in a background.</p>
     <p align="center">
 </p>
 
-## Installation
+### Installation
 
 ```bash
 $ cd new app
@@ -20,19 +20,23 @@ $ cd new app
 $ yarn install
 ```
 
-## Running the app
+### Running the app
 
 ```bash
 # development
 $ yarn run start
+```
 
+```bash
 # watch mode
 $ yarn run start:dev
+```
 
+```bash
 # production mode
 $ yarn run start:prod
 ```
 
-## API Documentaion
+### API Documentaion
 
 [http://localhost:3000/api](http://localhost:3000/api)
